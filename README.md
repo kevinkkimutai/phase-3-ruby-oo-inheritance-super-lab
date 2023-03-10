@@ -8,8 +8,7 @@
 
 ## Instructions
 
-In this lab, you'll be coding a `Student` class, which will be the superclass,
-and a `ChattyStudent` class, which will inherit from student.
+
 
 `ChattyStudent` _is_ a student, so should have all of the behaviors and
 characteristics of a student. But, `ChattyStudent` is _very chatty_. So, they
