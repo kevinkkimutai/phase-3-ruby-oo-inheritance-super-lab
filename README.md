@@ -2,7 +2,9 @@
 
 ## Learning Goals
 
-
+- Define two classes, one of which inherits from another
+- Define methods in the child class that use the `super` keyword to inherit from
+  and augment methods in the parent class
 
 ## Instructions
 
